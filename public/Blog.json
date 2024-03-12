@@ -1,52 +1,32 @@
 [
     {
         "id": "1",
-        "cover": "https://example.com/cover1.jpg",
+        "cover": "https://i.postimg.cc/mgDyFcsB/1.jpg",
         "title": "The Mystery of the Sapphire Castle",
         "author": "Evelyn Blackwood",
-        "author_img": "https://example.com/image1.jpg",
+        "author_img": "https://i.postimg.cc/FHLgxM7B/boy1.png",
         "posted_date": "2024-03-12",
         "reading_time": 45,
-        "hashtags": ["mystery", "adventure", "fiction"]
+        "hashtags": ["#mystery", "#adventure", "#fiction"]
     },
     {
         "id": "2",
-        "cover": "https://example.com/cover2.jpg",
+        "cover": "https://i.postimg.cc/B6Dr9YYY/2.png",
         "title": "Chronicles of the Galactic Explorers",
         "author": "Xander Nova",
-        "author_img": "https://example.com/image2.jpg",
+        "author_img": "https://i.postimg.cc/BnTPb484/profile.png",
         "posted_date": "2024-03-11",
         "reading_time": 60,
-        "hashtags": ["sciencefiction", "space", "adventure"]
+        "hashtags": ["#sciencefiction", "#space", "#adventure"]
     },
     {
         "id": "3",
-        "cover": "https://example.com/cover3.jpg",
+        "cover": "https://i.postimg.cc/jSm3x6JG/3.png",
         "title": "Secrets of the Enchanted Forest",
         "author": "Luna Silvermoon",
-        "author_img": "https://example.com/image3.jpg",
+        "author_img": "https://i.postimg.cc/FHLgxM7B/boy1.png",
         "posted_date": "2024-03-10",
         "reading_time": 30,
-        "hashtags": ["fantasy", "magic", "adventure"]
-    },
-    {
-        "id": "4",
-        "cover": "https://example.com/cover4.jpg",
-        "title": "Codebreakers: The Lost Cipher",
-        "author": "Maxwell Cipher",
-        "author_img": "https://example.com/image4.jpg",
-        "posted_date": "2024-03-09",
-        "reading_time": 40,
-        "hashtags": ["mystery", "puzzle", "adventure"]
-    },
-    {
-        "id": "5",
-        "cover": "https://example.com/cover5.jpg",
-        "title": "Legends of the Ancient Realm",
-        "author": "Aria Nightshade",
-        "author_img": "https://example.com/image5.jpg",
-        "posted_date": "2024-03-08",
-        "reading_time": 50,
-        "hashtags": ["fantasy", "legends", "adventure"]
+        "hashtags": ["#fantasy", "#magic", "#adventure"]
     }
 ]
